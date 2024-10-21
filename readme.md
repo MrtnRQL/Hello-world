@@ -82,5 +82,3 @@ Contributions are welcome! Feel free to create a pull request or open an issue i
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
-
-This should serve as a functional starting point for a test repository on GitHub! Let me know if you need specific adjustments.
